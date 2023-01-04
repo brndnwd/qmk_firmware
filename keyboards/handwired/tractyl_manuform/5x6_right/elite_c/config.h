@@ -36,7 +36,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     { 10, 10 }
 #define RGBLIGHT_LIMIT_VAL 80
 
-#define AUDIO_PIN       C6
+#define AUDIO_PIN       F5
 
 /* serial.c configuration for split keyboard */
 #define SOFT_SERIAL_PIN D0
