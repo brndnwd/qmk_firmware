@@ -29,6 +29,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // #define ROTATIONAL_TRANSFORM_ANGLE  -25
 // #define POINTING_DEVICE_INVERT_X
+#define POINTING_DEVICE_INVERT_Y
 
 /* Bootmagic Lite key configuration */
 #define BOOTMAGIC_LITE_ROW          0
