@@ -28,13 +28,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define DIODE_DIRECTION COL2ROW
 
-// WS2812 RGB LED strip input and number of LEDs
+/*// WS2812 RGB LED strip input and number of LEDs
 #define RGB_DI_PIN      D3
 #define RGBLED_NUM      20
 #define RGBLIGHT_SPLIT
 #define RGBLED_SPLIT \
     { 10, 10 }
-#define RGBLIGHT_LIMIT_VAL 80
+#define RGBLIGHT_LIMIT_VAL 80*/
 
 // #define AUDIO_PIN       F5
 
@@ -44,10 +44,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define EE_HANDS
 #define MASTER_RIGHT
 
-#define ENCODERS_PAD_A \
+/* #define ENCODERS_PAD_A \
     { D5 }
 #define ENCODERS_PAD_B \
-    { C7 }
+    { C7 } */
 
 /* PMW33XX Settings */
 #define PMW33XX_CS_PIN F7
